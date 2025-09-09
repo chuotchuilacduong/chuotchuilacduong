@@ -69,10 +69,10 @@
 ### ✨ My GitHub Stats:
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chuotchuilacduong&show_icons=true&locale=en&theme=radical&hide_border=true&" alt="chuotchuilacduong" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=chuotchuilacduong&show_icons=true&locale=en&theme=radical&hide_border=true&include_all_commits=true" alt="chuotchuilacduong" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chuotchuilacduong&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&" alt="chuotchuilacduong" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chuotchuilacduong&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="chuotchuilacduong" />
 </p>
 
 ---
