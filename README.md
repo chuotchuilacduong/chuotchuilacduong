@@ -1,12 +1,7 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnk5bzJudHFtczU3anN0cWYzYmlja284NTZpdjF2OHQxNG54dzM2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPjzfv0sI2p7fDW/giphy.gif" alt="animated" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXF5bzlubmJlNTdyZjFnZHdwdHBpY3hmYjFseWlqbzFqdmZlNmVoaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ASd0Ukj0y3qMM/giphy.gif" alt="animated" />
 </p>
 
-<p align="center">
-  <a href="https://open.spotify.com/user/your-spotify-username">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=your-spotify-username&count=1" alt="Spotify Recently Played" />
-  </a>
-</p>
 
 ---
 
