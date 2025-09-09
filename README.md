@@ -69,17 +69,15 @@
 ### ✨ My GitHub Stats:
 
 <table>
-  <tr>
-    <td valign="top">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chuotchuilacduong&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="chuotchuilacduong" />
-      <br/><br/>
-      <img src="https://komarev.com/ghpvc/?username=chuotchuilacduong&label=Profile%20views&color=0e75b6&style=flat" alt="chuotchuilacduong" /> 
-    </td>
-    
-    <td width="30px"></td>
-    
-    <td valign="top">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=chuotchuilacduong&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="chuotchuilacduong" />
-    </td>
-  </tr>
+<tr>
+<td valign="top">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chuotchuilacduong&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="chuotchuilacduong" />
+<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=chuotchuilacduong&label=Profile%20views&color=0e75b6&style=flat" alt="chuotchuilacduong" /> 
+</td>
+<td width="30px"></td>
+<td valign="top">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=chuotchuilacduong&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="chuotchuilacduong" />
+</td>
+</tr>
 </table>
