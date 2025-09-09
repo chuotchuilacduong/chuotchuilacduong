@@ -69,7 +69,7 @@
 ### ✨ My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chuotchuilacduong&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&hide_rank=false" alt="chuotchuilacduong's stats" width="410" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chuotchuilacduong&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&hide_rank=false" alt="chuotchuilacduong's stats" width="410" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chuotchuilacduong&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="chuotchuilacduong's top languages" width="350" />
 </div>
 <p align="center">
