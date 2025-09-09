@@ -21,7 +21,7 @@
 <td valign="top" width="35%">
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3M2M295cWN2OHh4dnlma3I5bzh6MjhkaHN0ZnZzcHd3NnFpaXo2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IThjVQiSNC4exs0i5A/giphy.gif" alt="Ralph Wiggum" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjdldzVlZWowZ21jaGZqOXJzNjJsOG53Mzlyc21rNnIxemRncWozeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H2u46cKU3VaXht6Iv9/giphy.gif" alt="Ralph Wiggum" />
 </div>
 
 </td>
