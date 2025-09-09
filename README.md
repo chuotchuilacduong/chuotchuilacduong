@@ -66,18 +66,12 @@
 
 ---
 
-### ✨ My GitHub Stats:
+### ✨ My GitHub Stats
 
-<table>
-<tr>
-<td valign="top">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chuotchuilacduong&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="chuotchuilacduong" />
-<br/><br/>
-<img src="https://komarev.com/ghpvc/?username=chuotchuilacduong&label=Profile%20views&color=0e75b6&style=flat" alt="chuotchuilacduong" /> 
-</td>
-<td width="30px"></td>
-<td valign="top">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=chuotchuilacduong&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="chuotchuilacduong" />
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chuotchuilacduong&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&hide_rank=false" alt="chuotchuilacduong's stats" width="410" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chuotchuilacduong&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="chuotchuilacduong's top languages" width="350" />
+</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chuotchuilacduong&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
+</p>
