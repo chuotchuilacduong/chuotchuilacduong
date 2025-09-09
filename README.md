@@ -1,13 +1,32 @@
-### Hi there, I'm Dukku 👋
+<div align="center">
 
-> I'm just a tech nerd, an ex-game nerd, a weirdo, or something I don't know... trying to figure it out myself.
-> I walk among geniuses. Unfortunately, I'm just a mediocrity. But a mediocrity who dreams big ✨
+### **Hi there, I'm Dukku** 👋
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXF5bzlubmJlNTdyZjFnZHdwdHBpY3hmYjFseWlqbzFqdmZlNmVoaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ASd0Ukj0y3qMM/giphy.gif" alt="animated" />
-</p>
+</div>
 
----
+<table>
+  <tr>
+    <td valign="top" width="65%">
+
+**A tech nerd, an ex-game nerd, and a mediocrity who dreams big ✨**
+
+<p>I walk among geniuses, constantly learning and trying to figure things out. My journey is about pushing boundaries, one line of code at a time.</p>
+
+- 🔭 I’m currently working on building my skills in **AI/Machine Learning**.
+- 🌱 I’m currently learning about **Quantum Computing** and **Web Application**.
+- 💬 Ask me about anything, I am happy to help and learn together!
+- 📫 How to reach me: **ducnguyen27925@gmail.com**
+
+</td>
+<td valign="top" width="35%">
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3M2M295cWN2OHh4dnlma3I5bzh6MjhkaHN0ZnZzcHd3NnFpaXo2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IThjVQiSNC4exs0i5A/giphy.gif" alt="Ralph Wiggum" />
+</div>
+
+</td>
+</tr>
+</table>
 
 ### 📬 Connect with me:
 
